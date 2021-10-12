@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bryan Brickman
+## Hi, I’m Bryan. I work on models for public health research at UChicago.
 - 👀 I’m interested in research tools
-- 🌱 I’m currently learning linux device drivers, reducing workload and _pain_ with automation/CI, computer graphics, high performance computing
-- 💞️ I’m interested in hobby collaborations, particularly in research tools and simulation
+- 🌱 I’m currently learning linux device drivers, reducing ~~suffering~~ manual labor with automation/CI, computer graphics and high performance computing
+- 💞️ I’m interested in collaborations, particularly in research tools and simulation
 - 📫 You can reach me at bryanlbrick@gmail.com
 
 
