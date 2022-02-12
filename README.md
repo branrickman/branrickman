@@ -1,4 +1,4 @@
-## Hi, I’m Bryan. I work on models in public health research at UChicago.
+## Hi, I’m Bryan. I work on modeling in public health research at UChicago.
 - 👀 I’m interested in research tools
 - 🌱 I’m currently learning advanced R, reducing ~~suffering~~ manual labor with automation/CI, computer graphics and high performance computing
 - 💞️ I’m interested in collaborations, particularly in research tools and simulation
