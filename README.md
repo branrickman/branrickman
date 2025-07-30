@@ -1,7 +1,7 @@
-## Hi, I’m Bryan. I work on modeling and simulation research.
+## Hi, I’m Bryan. I touch big computer.
 - 👀 I’m interested in research tools
-- 🌱 I’m currently learning advanced R, linux and network security, reducing ~~suffering~~ manual labor with automation/CI, and high performance computing
-- 💞️ I’m interested in collaborations, particularly in research tools and simulation
+- 🌱 Linux and network security, reducing ~~suffering~~ manual labor with automation/CI, and high performance computing
+- 💞️ Research tools and simulation
 
 
 
