@@ -1,5 +1,4 @@
 ## Hi, I’m Bryan. I touch big computer.
-- 👀 I’m interested in research tools
 - 🌱 Linux and network security, reducing ~~suffering~~ manual labor with automation/CI, and high performance computing
 - 💞️ Research tools and simulation
 
