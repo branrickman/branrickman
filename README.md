@@ -1,4 +1,4 @@
-## Hi, I’m Brynn. I touch big computer.
+## Hi, I’m Brynn. I touch big computers.
 - 🌱 Linux and network security, reducing ~~suffering~~ manual labor with automation/CI, and high performance computing
 - 💞️ Research tools and simulation
 
